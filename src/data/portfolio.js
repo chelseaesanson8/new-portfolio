@@ -8,7 +8,7 @@ export default [
     },
 
     {
-        title: 'Personal Porfolio',
+        title: 'Personal Portfolio',
         imgUrl: '/assets/portfolio.png',
         stack: ['React', 'Tailwind', 'Vite'],
         link: 'https://new-portfolio-chelseaesanson8.vercel.app/',

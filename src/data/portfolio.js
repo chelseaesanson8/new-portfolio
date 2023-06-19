@@ -30,5 +30,13 @@ export default [
         link: 'https://www.galaxieis.com/',
         category: 'wordpress'
     },
+    
+    {
+        title: 'To-do List',
+        imgUrl: '/assets/todo-list.png',
+        stack: ['React, CSS, React-Icons'],
+        link: 'https://to-do-list-zeta-sooty.vercel.app/',
+        category: 'coding'
+    },
 
 ]

@@ -39,4 +39,15 @@ export default [
         category: 'coding'
     },
 
+    {
+        title: 'Y-Town Powder Coating',
+        imgUrl: '/assets/y-town.png',
+        stack: ['Wordpress, Elementor Pro'], 
+        link: 'https://www.y-townpowdercoating.com/',
+        category: 'wordpress'
+
+    },
+
+
+
 ]

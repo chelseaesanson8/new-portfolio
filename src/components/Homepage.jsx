@@ -1,14 +1,10 @@
 import React, { useEffect, useState } from 'react';
-import Intro from './components/Intro';
-import Timeline from './components/Timeline';
-import Portfolio from './components/Portfolio';
-import Footer from './components/Footer';
-import Contact from './components/Contact';
-import firebase from "firebase/app";
-import "firebase/firestore";
+import Intro from './Intro'
+import Timeline from './Timeline';
+import Portfolio from './Portfolio';
+import Footer from './Footer';
+import Contact from './Contact';
 
-
-firebase.initializeApp(firebaseConfig);
 
 function Homepage() {
     const [theme, setTheme] = useState(null);

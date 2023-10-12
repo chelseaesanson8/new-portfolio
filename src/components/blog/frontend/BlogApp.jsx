@@ -5,7 +5,6 @@ const BlogApp = () => {
     return (
         <div>
             <h1>Blog</h1>
-            <BlogPost />
         </div>
     );
 };

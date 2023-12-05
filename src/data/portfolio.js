@@ -30,7 +30,7 @@ export default [
         link: 'https://www.galaxieis.com/',
         category: 'wordpress'
     },
-    
+
     {
         title: 'To-do List',
         imgUrl: '/assets/todo-list.png',
@@ -42,11 +42,19 @@ export default [
     {
         title: 'Y-Town Powder Coating',
         imgUrl: '/assets/y-town.png',
-        stack: ['Wordpress, Elementor Pro'], 
+        stack: ['Wordpress, Elementor Pro'],
         link: 'https://www.y-townpowdercoating.com/',
         category: 'wordpress'
 
     },
+    {
+        title: 'Jujutsu Kaisen Character Wikipedia',
+        imgUrl: '/assets/jjk-wiki.png',
+        stack: ['React', 'CSS', 'JavaScript'],
+        link: 'https://replit.com/@chelseasanson/HCI-Project-JJK-Wikipedia?v=1',
+        category: 'coding'
+
+    }
 
 
 

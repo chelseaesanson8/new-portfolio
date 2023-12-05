@@ -1,5 +1,13 @@
 export default [
     {
+        title: 'Jujutsu Kaisen Character Wikipedia',
+        imgUrl: '/assets/jjk-wiki.png',
+        stack: ['React', 'CSS', 'JavaScript'],
+        link: 'https://replit.com/@chelseasanson/HCI-Project-JJK-Wikipedia?v=1',
+        category: 'coding'
+
+    },
+    {
         title: 'Pokedex',
         imgUrl: '/assets/pokedex.png',
         stack: ['React', 'CSS', 'JavaScript'],
@@ -46,15 +54,8 @@ export default [
         link: 'https://www.y-townpowdercoating.com/',
         category: 'wordpress'
 
-    },
-    {
-        title: 'Jujutsu Kaisen Character Wikipedia',
-        imgUrl: '/assets/jjk-wiki.png',
-        stack: ['React', 'CSS', 'JavaScript'],
-        link: 'https://replit.com/@chelseasanson/HCI-Project-JJK-Wikipedia?v=1',
-        category: 'coding'
-
     }
+
 
 
 
